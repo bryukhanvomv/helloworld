@@ -1,3 +1,3 @@
 # helloworld
-test - first blud
-to GO project
+test - first blood
+# to GO project
